@@ -1,0 +1,29 @@
+.intro-header {
+	background: url('../img/fond9.jpg') no-repeat;
+	background-size: cover;
+}
+
+.logo_gooks {
+	width: 200px;
+}
+
+.intro-header-auteurs {
+	background: url('../img/fond3.jpeg') no-repeat;
+	background-size: cover;
+	background-position: right bottom;
+}
+
+.intro-header-romans {
+	background: url('../img/fond7.jpg') no-repeat;
+	background-size: cover;
+}
+
+.row p {
+	text-align: justify;
+}
+
+
+.intro-header-post {
+	background: url('../img/fond11.jpg') no-repeat;
+	background-size: cover;
+}
